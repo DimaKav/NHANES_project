@@ -2,6 +2,6 @@
 *
 
 # But not these files...
-!2013_2014_NHANES_data.ipynb
-!2013_2014_NHANES_data_cleaning.ipyn
+!2013_2014_NHANES_PCA_kmeans.ipynb
+!2013_2014_NHANES_data_cleaning.ipynb
 !.gitignore
