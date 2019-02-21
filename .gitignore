@@ -1,0 +1,7 @@
+# Ignore everything
+*
+
+# But not these files...
+!2013_2014_NHANES_data.ipynb
+!2013_2014_NHANES_data_cleaning.ipyn
+!.gitignore
